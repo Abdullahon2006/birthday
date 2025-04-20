@@ -28,7 +28,7 @@ Where:
 
 ## Example Output
 
-![Sample Output](birthday.png)
+<img src="birthday.png" width="300" height="275">
 
 ```bash
 ~/Desktop/arrays> java Birthday 365 1000000
