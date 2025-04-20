@@ -88,3 +88,10 @@ The program is implemented in `Birthday.java` and demonstrates:
 - Random number generation
 - Statistical simulation
 - Tabular output formatting
+
+
+
+
+License
+
+This project is open-source under the MIT License.
